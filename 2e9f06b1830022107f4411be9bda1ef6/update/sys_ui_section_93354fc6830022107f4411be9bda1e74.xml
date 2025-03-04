@@ -1,100 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="93354fc6830022107f4411be9bda1e74" sys_domain="global" table="x_snc_whishlist_wish_item" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>item</element>
+            <element>display_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 16:19:35</sys_created_on>
-            <sys_id>6f354fc6830022107f4411be9bda1e7d</sys_id>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>1947c38a830022107f4411be9bda1e6a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 16:19:35</sys_updated_on>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>9947c38a830022107f4411be9bda1e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 16:19:35</sys_created_on>
-            <sys_id>2f354fc6830022107f4411be9bda1ee1</sys_id>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>1d47c38a830022107f4411be9bda1e6a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 16:19:35</sys_updated_on>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requester</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 16:19:36</sys_created_on>
-            <sys_id>af354fc6830022107f4411be9bda1ee1</sys_id>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>9d47c38a830022107f4411be9bda1e6a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 16:19:36</sys_updated_on>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 16:19:36</sys_created_on>
-            <sys_id>23354fc6830022107f4411be9bda1ee2</sys_id>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>1147c38a830022107f4411be9bda1e6b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 16:19:36</sys_updated_on>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>quantity</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 16:19:36</sys_created_on>
-            <sys_id>a3354fc6830022107f4411be9bda1ee2</sys_id>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>9147c38a830022107f4411be9bda1e6b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 16:19:36</sys_updated_on>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 16:19:36</sys_created_on>
-            <sys_id>27354fc6830022107f4411be9bda1ee2</sys_id>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>1547c38a830022107f4411be9bda1e6b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 16:19:36</sys_updated_on>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>url</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 16:19:36</sys_created_on>
-            <sys_id>a7354fc6830022107f4411be9bda1ee2</sys_id>
+            <sys_created_on>2025-03-04 16:28:27</sys_created_on>
+            <sys_id>9547c38a830022107f4411be9bda1e6b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_whishlist_wish_item" sys_domain="global" view="Default view">93354fc6830022107f4411be9bda1e74</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 16:19:36</sys_updated_on>
+            <sys_updated_on>2025-03-04 16:28:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
